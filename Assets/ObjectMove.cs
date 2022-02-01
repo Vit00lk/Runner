@@ -19,7 +19,7 @@ public class ObjectMove : MonoBehaviour
 
         {
 
-            //Destroy(gameObject);-1.30712
+            Destroy(gameObject);
 
         }
     }
